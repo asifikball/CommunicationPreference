@@ -1,0 +1,12 @@
+com\cointribe\communication\preferences\model\UserDetails.class
+com\cointribe\communication\preferences\dao\impl\PreferenceDaoImpl.class
+com\cointribe\communication\preferences\controller\PreferencesController.class
+com\cointribe\communication\preferences\dao\PreferenceDaoCustom.class
+com\cointribe\communication\preferences\service\PreferenceService.class
+com\cointribe\communication\preferences\dao\PreferenceDao.class
+com\cointribe\communication\preferences\util\TimeDeserializer.class
+com\cointribe\communication\preferences\model\UserPreference.class
+com\cointribe\communication\preferences\preferences\PreferencesApplication.class
+com\cointribe\communication\preferences\service\impl\PreferenceServiceImpl.class
+com\cointribe\communication\preferences\model\Preference.class
+com\cointribe\communication\preferences\model\PreferenceTime.class

@@ -1,0 +1,29 @@
+1. Post Request  - for setting preferences 
+   url:http://localhost:8080/user_name/user1
+   Json-Body: 
+   {
+  "sms":  
+  [{
+  	"preference_time":"10:00"
+  },
+  {
+  	"preference_time":"14:00"
+  }],
+  "emails":  
+  [{
+  	"preference_time":"12:00"
+  }],
+  "app_notifications": 
+  [{
+    "preference_time":"01:00"
+  }]
+  
+}
+
+
+2. Get Request - for getting preferences
+	url:http://localhost:8080/user_name/user1
+	
+	
+3. Get Request - for sending Notifications
+	http://localhost:8080/sendNotification/user_name/user1/notification_type/sms

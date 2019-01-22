@@ -1,0 +1,32 @@
+CREATE TABLE `user_details` (
+  `user_id` INT(11) NOT NULL AUTO_INCREMENT,
+  `email_id` VARCHAR(150) NOT NULL,
+  `user_name` VARCHAR(150) NOT NULL,
+  `phone_number` BIGINT(20) NOT NULL,
+  PRIMARY KEY (`user_id`)
+); 
+
+CREATE TABLE `preferences` (
+  `preference_id` INT(11) NOT NULL AUTO_INCREMENT,
+  `preference_time` TIME DEFAULT NULL,
+  `preference_type` VARCHAR(100) DEFAULT NULL,
+  `user_name` VARCHAR(150) DEFAULT NULL,-- foreign key
+  PRIMARY KEY (`preference_id`)
+);
+
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user1@gmail.com','user1',9999999991);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user2@gmail.com','user2',9999999992);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user3@gmail.com','user3',9999999993);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user4@gmail.com','user4',9999999994);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user5@gmail.com','user5',9999999995);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user6@gmail.com','user6',9999999996);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user7@gmail.com','user7',9999999997);
+INSERT INTO user_details(email_id,user_name,phone_number)
+VALUES('user8@gmail.com','user8',9999999998);

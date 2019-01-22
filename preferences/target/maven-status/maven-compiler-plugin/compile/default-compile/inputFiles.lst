@@ -1,0 +1,12 @@
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\preferences\PreferencesApplication.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\model\UserPreference.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\service\impl\PreferenceServiceImpl.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\model\Preference.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\model\UserDetails.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\controller\PreferencesController.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\dao\impl\PreferenceDaoImpl.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\service\PreferenceService.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\dao\PreferenceDao.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\util\TimeDeserializer.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\dao\PreferenceDaoCustom.java
+E:\Softwares\springboot\boot-workspace\preferences\src\main\java\com\cointribe\communication\preferences\model\PreferenceTime.java
